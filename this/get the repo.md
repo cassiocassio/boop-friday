@@ -1,5 +1,6 @@
 example file inside a dir
 
+quick edit
 
 # get the repo
   git clone https://github.com/juju/juju-gui
