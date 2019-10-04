@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>EmbeddedEditorHidden:cassio</key>
+	<false/>
+	<key>ExpandedEditorWidth:cassio:displays([(0, 0), (1440, 900)])</key>
+	<integer>848</integer>
+	<key>ExpandedItems:cassio</key>
+	<array/>
+	<key>FileFilterMode:cassio</key>
+	<integer>0</integer>
+	<key>OpenDocuments:cassio</key>
+	<array/>
+	<key>OpenDocumentsExpanded</key>
+	<true/>
+	<key>OpenDocumentsSplitterProportion</key>
+	<real>0.82456140350877194</real>
+	<key>ProjectItemsExpanded</key>
+	<true/>
+	<key>ProjectViewVisible</key>
+	<true/>
+	<key>RecentItems:cassio</key>
+	<array/>
+	<key>ScratchpadItemsExpanded</key>
+	<true/>
+	<key>ScratchpadItemsVisible</key>
+	<true/>
+	<key>ShowSCMData:cassio</key>
+	<false/>
+	<key>ToolbarVisible:cassio</key>
+	<false/>
+	<key>ViewSplitterPosition:cassio</key>
+	<real>0.1931493878364563</real>
+	<key>WindowFrame:cassio:displays([(0, 0), (1440, 900)])</key>
+	<string>rect(45,0,900,1051)</string>
+</dict>
+</plist>
