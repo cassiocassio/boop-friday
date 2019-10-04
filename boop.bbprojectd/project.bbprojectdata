@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HierarchyData</key>
+	<array>
+		<string>DA413BD4-ADFF-41A1-96CB-47D175F8FE58</string>
+	</array>
+	<key>ProjectItems</key>
+	<dict>
+		<key>DA413BD4-ADFF-41A1-96CB-47D175F8FE58</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>BookmarkData</key>
+				<data>
+				Ym9va7QCAAAAAAQQMAAAAEtgGTT8iSRdZY0Lw5o3miRC
+				ipzZ7eSXce0T9ELTnYrOsAEAAAQAAAADAwAAAAgAKAUA
+				AAABAQAAVXNlcnMAAAAGAAAAAQEAAGNhc3NpbwAABAAA
+				AAEBAABDb2RlCwAAAAEBAABib29wLWZyaWRheQAQAAAA
+				AQYAABAAAAAgAAAAMAAAADwAAAAIAAAABAMAAPlmAgAA
+				AAAACAAAAAQDAAC7NgkAAAAAAAgAAAAEAwAAwNOiAAIA
+				AAAIAAAABAMAALjvlQICAAAAEAAAAAEGAABoAAAAeAAA
+				AIgAAACYAAAACAAAAAAEAABBwaO1FbQAfhgAAAABAgAA
+				AgAAAAAAAAAPAAAAAAAAAAAAAAAAAAAACAAAAAQDAAAC
+				AAAAAAAAAAQAAAADAwAA9QEAAAgAAAABCQAAZmlsZTov
+				Ly8KAAAAAQEAAEJhbGl2YW5pY2gAAAgAAAAEAwAAALBg
+				bnQAAAAIAAAAAAQAAEG5XrHGAAAAJAAAAAEBAABERTE5
+				MjM1Qi00MEVFLTM0RDYtOTVEOC1FNkUxNUU2MzI4MDMY
+				AAAAAQIAAIEAAAABAAAA7xMAAAEAAAAAAAAAAAAAAAEA
+				AAABAQAALwAAAAAAAAABBQAAzAAAAP7///8BAAAAAAAA
+				ABAAAAAEEAAAUAAAAAAAAAAFEAAAqAAAAAAAAAAQEAAA
+				0AAAAAAAAABAEAAAwAAAAAAAAAACIAAAnAEAAAAAAAAF
+				IAAADAEAAAAAAAAQIAAAHAEAAAAAAAARIAAAUAEAAAAA
+				AAASIAAAMAEAAAAAAAATIAAAQAEAAAAAAAAgIAAAfAEA
+				AAAAAAAwIAAAqAEAAAAAAAABwAAA8AAAAAAAAAARwAAA
+				IAAAAAAAAAASwAAAAAEAAAAAAAAQ0AAABAAAAAAAAAA=
+				</data>
+				<key>FileURL</key>
+				<string>file:///Users/cassio/Code/boop-friday/</string>
+				<key>HasSecurityScope</key>
+				<true/>
+				<key>RelativePath</key>
+				<string>./</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>boop-friday</string>
+			<key>ItemType</key>
+			<string>FolderReference</string>
+			<key>UserOverrideItemName</key>
+			<true/>
+		</dict>
+	</dict>
+	<key>com.barebones.DocumentFormatVersion</key>
+	<integer>5</integer>
+	<key>com.barebones.DocumentType</key>
+	<string>Project</string>
+</dict>
+</plist>
