@@ -3,11 +3,17 @@ name: boop-friday
   summary: Well you have to start somewhere # 79 char long summary
   description: |
     Less than a hundred word summary is likely. But not certain.
-
   grade: devel # must be 'stable' to release into candidate/stable channels
+  base: core18
   confinement: devmode # use 'strict' once you have the right plugs and slots
 
-  parts:
-    my-part:
-      # See 'snapcraft plugins'
-      plugin: nil
+parts:
+  boop-friday:
+    plugin: python
+    python-version: python3
+    source: .
+    stage-packages:
+      - python-six
+apps:
+  boop-friday:
+    command: bin/boop-friday.py
