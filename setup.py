@@ -4,8 +4,8 @@ from setuptools import setup, find_packages
 
 setup(
     name="boop-friday",
-    version="0.1.0",
-    author="name",
-    author_email="email",
+    version="1.0.0",
+    author="cassiocassio",
+    author_email="martin@cassiocassio.co.uk",
     py_modules=["boop-friday"],
 )
