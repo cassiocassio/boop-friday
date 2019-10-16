@@ -11,8 +11,6 @@ parts:
     plugin: python
     python-version: python3
     source: .
-      stage-packages:
-       - python-six
 apps:
   boop-friday:
   command: bin/boop-friday.py
