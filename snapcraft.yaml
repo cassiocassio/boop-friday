@@ -15,4 +15,4 @@ parts:
 
 apps:
   boop-friday:
-    command: python3 pythonFile.py
+    command: python3 boop-friday.py
