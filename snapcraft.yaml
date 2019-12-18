@@ -17,7 +17,7 @@ description: >
     New thing here
 
 confinement: classic
-grade: beta
+grade: stable
 base: core18
 
 parts:
