@@ -4,7 +4,7 @@
 <dict>
 	<key>EmbeddedEditorHidden:cassio</key>
 	<false/>
-	<key>ExpandedEditorWidth:cassio:displays([(0, 0), (1792, 1120)]:[(-2560, -320), (2560, 1440)])</key>
+	<key>ExpandedEditorWidth:cassio:displays([(0, 0), (1792, 1120)])</key>
 	<integer>735</integer>
 	<key>ExpandedItems:cassio</key>
 	<array>
@@ -14,6 +14,78 @@
 	<integer>0</integer>
 	<key>OpenDocuments:cassio</key>
 	<array>
+		<dict>
+			<key>BookmarkData</key>
+			<data>
+			Ym9vaxgDAAAAAAQQMAAAADnH+KnKMl33QuZ0waai8bQR5PKlNaFJ
+			wJK6vn+6+v9kCAIAAAQAAAADAwAAAAgAKAUAAAABAQAAVXNlcnMA
+			AAAGAAAAAQEAAGNhc3NpbwAABAAAAAEBAABDb2RlCwAAAAEBAABi
+			b29wLWZyaWRheQAIAAAAAQEAAHNldHVwLnB5FAAAAAEGAAAQAAAA
+			IAAAADAAAAA8AAAAUAAAAAgAAAAEAwAAnVMAAAAAAAAIAAAABAMA
+			ABOPBQAAAAAACAAAAAQDAAAmTjkAAAAAAAgAAAAEAwAAO5NNAAAA
+			AAAIAAAABAMAAImTTQAAAAAAFAAAAAEGAAB8AAAAjAAAAJwAAACs
+			AAAAvAAAAAgAAAAABAAAQcHT2faC9A4YAAAAAQIAAAEAAAAAAAAA
+			DwAAAAAAAAAAAAAAAAAAAAgAAAAEAwAAAwAAAAAAAAAEAAAAAwMA
+			APUBAAAIAAAAAQkAAGZpbGU6Ly8vDAAAAAEBAABNYWNpbnRvc2gg
+			SEQIAAAABAMAAADgAePoAAAACAAAAAAEAABBwbQafRI1XSQAAAAB
+			AQAAN0Q3NzRDNUItREJEMS00NDg3LUJBMTktMzFDQkIxQ0M4QTFD
+			GAAAAAECAACBAAAAAQAAAO8TAAABAAAAAAAAAAAAAAABAAAAAQEA
+			AC8AAAAAAAAAAQUAABoAAAABAQAATlNVUkxEb2N1bWVudElkZW50
+			aWZpZXJLZXkAAAQAAAADAwAArx8AANgAAAD+////AQAAAAAAAAAR
+			AAAABBAAAGAAAAAAAAAABRAAAMwAAAAAAAAAEBAAAPgAAAAAAAAA
+			QBAAAOgAAAAAAAAAAiAAAMQBAAAAAAAABSAAADQBAAAAAAAAECAA
+			AEQBAAAAAAAAESAAAHgBAAAAAAAAEiAAAFgBAAAAAAAAEyAAAGgB
+			AAAAAAAAICAAAKQBAAAAAAAAMCAAANABAAAAAAAAAcAAABgBAAAA
+			AAAAEcAAACAAAAAAAAAAEsAAACgBAAAAAAAAENAAAAQAAAAAAAAA
+			2AEAgPwBAAAAAAAA
+			</data>
+			<key>FileURL</key>
+			<string>file:///Users/cassio/Code/boop-friday/setup.py</string>
+			<key>HasSecurityScope</key>
+			<true/>
+			<key>RelativePath</key>
+			<string>./setup.py</string>
+			<key>TypeID</key>
+			<string>_CFileLocator</string>
+			<key>Version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>BookmarkData</key>
+			<data>
+			Ym9vayADAAAAAAQQMAAAAErvYZ8rqW/AEl889QUCtpLytZss5tG6
+			SCFRkV1v5cmrEAIAAAQAAAADAwAAAAgAKAUAAAABAQAAVXNlcnMA
+			AAAGAAAAAQEAAGNhc3NpbwAABAAAAAEBAABDb2RlCwAAAAEBAABi
+			b29wLWZyaWRheQAOAAAAAQEAAGJvb3AtZnJpZGF5LnB5AAAUAAAA
+			AQYAABAAAAAgAAAAMAAAADwAAABQAAAACAAAAAQDAACdUwAAAAAA
+			AAgAAAAEAwAAE48FAAAAAAAIAAAABAMAACZOOQAAAAAACAAAAAQD
+			AAA7k00AAAAAAAgAAAAEAwAAgJNNAAAAAAAUAAAAAQYAAIQAAACU
+			AAAApAAAALQAAADEAAAACAAAAAAEAABBwdPZ9nrXABgAAAABAgAA
+			AQAAAAAAAAAPAAAAAAAAAAAAAAAAAAAACAAAAAQDAAADAAAAAAAA
+			AAQAAAADAwAA9QEAAAgAAAABCQAAZmlsZTovLy8MAAAAAQEAAE1h
+			Y2ludG9zaCBIRAgAAAAEAwAAAOAB4+gAAAAIAAAAAAQAAEHBtBp9
+			EjVdJAAAAAEBAAA3RDc3NEM1Qi1EQkQxLTQ0ODctQkExOS0zMUNC
+			QjFDQzhBMUMYAAAAAQIAAIEAAAABAAAA7xMAAAEAAAAAAAAAAAAA
+			AAEAAAABAQAALwAAAAAAAAABBQAAGgAAAAEBAABOU1VSTERvY3Vt
+			ZW50SWRlbnRpZmllcktleQAABAAAAAMDAABPHwAA2AAAAP7///8B
+			AAAAAAAAABEAAAAEEAAAaAAAAAAAAAAFEAAA1AAAAAAAAAAQEAAA
+			AAEAAAAAAABAEAAA8AAAAAAAAAACIAAAzAEAAAAAAAAFIAAAPAEA
+			AAAAAAAQIAAATAEAAAAAAAARIAAAgAEAAAAAAAASIAAAYAEAAAAA
+			AAATIAAAcAEAAAAAAAAgIAAArAEAAAAAAAAwIAAA2AEAAAAAAAAB
+			wAAAIAEAAAAAAAARwAAAIAAAAAAAAAASwAAAMAEAAAAAAAAQ0AAA
+			BAAAAAAAAADgAQCABAIAAAAAAAA=
+			</data>
+			<key>FileURL</key>
+			<string>file:///Users/cassio/Code/boop-friday/boop-friday.py</string>
+			<key>HasSecurityScope</key>
+			<true/>
+			<key>RelativePath</key>
+			<string>./boop-friday.py</string>
+			<key>TypeID</key>
+			<string>_CFileLocator</string>
+			<key>Version</key>
+			<integer>1</integer>
+		</dict>
 		<dict>
 			<key>BookmarkData</key>
 			<data>
@@ -86,76 +158,6 @@
 			<key>Version</key>
 			<integer>1</integer>
 		</dict>
-		<dict>
-			<key>BookmarkData</key>
-			<data>
-			Ym9va9wCAAAAAAQQMAAAAI7QhlktfUYSnLjfPA8kv+Nh1vIkQPak
-			OTvG1kfO+fNQ2AEAAAQAAAADAwAAAAgAKAUAAAABAQAAVXNlcnMA
-			AAAGAAAAAQEAAGNhc3NpbwAABAAAAAEBAABDb2RlCwAAAAEBAABi
-			b29wLWZyaWRheQAIAAAAAQEAAHNldHVwLnB5FAAAAAEGAAAQAAAA
-			IAAAADAAAAA8AAAAUAAAAAgAAAAEAwAAnVMAAAAAAAAIAAAABAMA
-			ABOPBQAAAAAACAAAAAQDAAAmTjkAAAAAAAgAAAAEAwAAO5NNAAAA
-			AAAIAAAABAMAAImTTQAAAAAAFAAAAAEGAAB8AAAAjAAAAJwAAACs
-			AAAAvAAAAAgAAAAABAAAQcHT2faC9A4YAAAAAQIAAAEAAAAAAAAA
-			DwAAAAAAAAAAAAAAAAAAAAgAAAAEAwAAAwAAAAAAAAAEAAAAAwMA
-			APUBAAAIAAAAAQkAAGZpbGU6Ly8vDAAAAAEBAABNYWNpbnRvc2gg
-			SEQIAAAABAMAAADgAePoAAAACAAAAAAEAABBwbQafRI1XSQAAAAB
-			AQAAN0Q3NzRDNUItREJEMS00NDg3LUJBMTktMzFDQkIxQ0M4QTFD
-			GAAAAAECAACBAAAAAQAAAO8TAAABAAAAAAAAAAAAAAABAAAAAQEA
-			AC8AAAAAAAAAAQUAAMwAAAD+////AQAAAAAAAAAQAAAABBAAAGAA
-			AAAAAAAABRAAAMwAAAAAAAAAEBAAAPgAAAAAAAAAQBAAAOgAAAAA
-			AAAAAiAAAMQBAAAAAAAABSAAADQBAAAAAAAAECAAAEQBAAAAAAAA
-			ESAAAHgBAAAAAAAAEiAAAFgBAAAAAAAAEyAAAGgBAAAAAAAAICAA
-			AKQBAAAAAAAAMCAAANABAAAAAAAAAcAAABgBAAAAAAAAEcAAACAA
-			AAAAAAAAEsAAACgBAAAAAAAAENAAAAQAAAAAAAAA
-			</data>
-			<key>FileURL</key>
-			<string>file:///Users/cassio/Code/boop-friday/setup.py</string>
-			<key>HasSecurityScope</key>
-			<true/>
-			<key>RelativePath</key>
-			<string>./setup.py</string>
-			<key>TypeID</key>
-			<string>_CFileLocator</string>
-			<key>Version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BookmarkData</key>
-			<data>
-			Ym9vayADAAAAAAQQMAAAAErvYZ8rqW/AEl889QUCtpLytZss5tG6
-			SCFRkV1v5cmrEAIAAAQAAAADAwAAAAgAKAUAAAABAQAAVXNlcnMA
-			AAAGAAAAAQEAAGNhc3NpbwAABAAAAAEBAABDb2RlCwAAAAEBAABi
-			b29wLWZyaWRheQAOAAAAAQEAAGJvb3AtZnJpZGF5LnB5AAAUAAAA
-			AQYAABAAAAAgAAAAMAAAADwAAABQAAAACAAAAAQDAACdUwAAAAAA
-			AAgAAAAEAwAAE48FAAAAAAAIAAAABAMAACZOOQAAAAAACAAAAAQD
-			AAA7k00AAAAAAAgAAAAEAwAAgJNNAAAAAAAUAAAAAQYAAIQAAACU
-			AAAApAAAALQAAADEAAAACAAAAAAEAABBwdPZ9nrXABgAAAABAgAA
-			AQAAAAAAAAAPAAAAAAAAAAAAAAAAAAAACAAAAAQDAAADAAAAAAAA
-			AAQAAAADAwAA9QEAAAgAAAABCQAAZmlsZTovLy8MAAAAAQEAAE1h
-			Y2ludG9zaCBIRAgAAAAEAwAAAOAB4+gAAAAIAAAAAAQAAEHBtBp9
-			EjVdJAAAAAEBAAA3RDc3NEM1Qi1EQkQxLTQ0ODctQkExOS0zMUNC
-			QjFDQzhBMUMYAAAAAQIAAIEAAAABAAAA7xMAAAEAAAAAAAAAAAAA
-			AAEAAAABAQAALwAAAAAAAAABBQAAGgAAAAEBAABOU1VSTERvY3Vt
-			ZW50SWRlbnRpZmllcktleQAABAAAAAMDAABPHwAA2AAAAP7///8B
-			AAAAAAAAABEAAAAEEAAAaAAAAAAAAAAFEAAA1AAAAAAAAAAQEAAA
-			AAEAAAAAAABAEAAA8AAAAAAAAAACIAAAzAEAAAAAAAAFIAAAPAEA
-			AAAAAAAQIAAATAEAAAAAAAARIAAAgAEAAAAAAAASIAAAYAEAAAAA
-			AAATIAAAcAEAAAAAAAAgIAAArAEAAAAAAAAwIAAA2AEAAAAAAAAB
-			wAAAIAEAAAAAAAARwAAAIAAAAAAAAAASwAAAMAEAAAAAAAAQ0AAA
-			BAAAAAAAAADgAQCABAIAAAAAAAA=
-			</data>
-			<key>FileURL</key>
-			<string>file:///Users/cassio/Code/boop-friday/boop-friday.py</string>
-			<key>HasSecurityScope</key>
-			<true/>
-			<key>RelativePath</key>
-			<string>./boop-friday.py</string>
-			<key>TypeID</key>
-			<string>_CFileLocator</string>
-			<key>Version</key>
-			<integer>1</integer>
-		</dict>
 	</array>
 	<key>OpenDocumentsExpanded</key>
 	<true/>
@@ -169,7 +171,7 @@
 	<array>
 		<dict>
 			<key>Date</key>
-			<date>2019-12-17T15:21:13Z</date>
+			<date>2019-12-18T10:30:14Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -212,7 +214,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-12-17T15:21:13Z</date>
+			<date>2019-12-18T10:30:14Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -253,7 +255,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-12-17T15:21:13Z</date>
+			<date>2019-12-18T10:30:14Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -296,7 +298,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-12-17T15:21:13Z</date>
+			<date>2019-12-18T10:30:14Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -339,7 +341,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-12-17T15:21:13Z</date>
+			<date>2019-12-18T10:30:14Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -382,7 +384,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-12-17T15:21:13Z</date>
+			<date>2019-12-18T10:30:14Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -423,7 +425,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-12-17T15:21:13Z</date>
+			<date>2019-12-18T10:30:14Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -466,7 +468,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-12-17T15:21:13Z</date>
+			<date>2019-12-18T10:30:14Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -509,7 +511,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-12-17T15:21:13Z</date>
+			<date>2019-12-18T10:30:14Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -550,7 +552,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-12-17T15:21:13Z</date>
+			<date>2019-12-18T10:30:14Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -591,7 +593,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-12-17T15:21:13Z</date>
+			<date>2019-12-18T10:30:14Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -632,7 +634,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-12-17T15:21:13Z</date>
+			<date>2019-12-18T10:30:14Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -673,7 +675,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-12-17T15:21:13Z</date>
+			<date>2019-12-18T10:30:14Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -724,7 +726,7 @@
 	<false/>
 	<key>ViewSplitterPosition:cassio</key>
 	<real>0.23676012456417084</real>
-	<key>WindowFrame:cassio:displays([(0, 0), (1792, 1120)]:[(-2560, -320), (2560, 1440)])</key>
-	<string>rect(45,0,697,963)</string>
+	<key>WindowFrame:cassio:displays([(0, 0), (1792, 1120)])</key>
+	<string>rect(45,11,697,974)</string>
 </dict>
 </plist>
