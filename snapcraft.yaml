@@ -1,5 +1,5 @@
 name: boop-friday
-version: 1.4.0
+version: 1.5.0
 summary: A better longer summary goes here
 description: >
     Winter kept us warm, covering
@@ -15,7 +15,7 @@ description: >
     And I was frightened. He said, Marie,
     Marie, hold on tight. And down we went.
     New thing here
-    Another change
+    Another change. Now.
 
 confinement: strict
 grade: stable
